@@ -2,9 +2,6 @@ var UI = require('ui');
 var Vector2 = require('vector2');
 var ajax = require('ajax');
 
-
-
-
 var main = new UI.Window({
   fullscreen: true,
 });
